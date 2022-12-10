@@ -1,2 +1,2 @@
-PORT_NUMBER = 2000
-HOST = 'localhost'
+SERVER_PORT = 2000
+SERVER_HOST = 'localhost'
